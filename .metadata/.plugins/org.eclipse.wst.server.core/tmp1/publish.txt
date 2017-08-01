@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Aug 01 17:29:07 CST 2017
+org.eclipse.jst.jee.server\:VR=/home/brian/apache-tomcat-8.5.11/webapps/VR
+org.eclipse.jst.jee.server\:/binary\:/home/brian/VR-Platform-BG/VR-Platform-BG/VR/WebContent/WEB-INF/lib/spring-web-4.2.2.RELEASE.jar=/home/brian/apache-tomcat-8.5.11/webapps/VR/WEB-INF/lib/spring-web-4.2.2.RELEASE.jar
